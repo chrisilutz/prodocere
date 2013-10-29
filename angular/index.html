@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html ng-app>
+  <head>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.0.6/angular.min.js"></script>
+    <script src="application.js"></script>
+    <link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css" rel="stylesheet">
+  </head>
+  <body ng-controller="MeinController">
+   <h4>Alle Personen</h4>
+<table class="table table-bordered table-hover">
+<thead><tr>
+	<th>Datum</th>
+	<th>Veranstaltung</th>
+	<th>Moderator</th>
+	<th>Ort</th>
+</tr></thead>
+  <tbody><tr ng-repeat="new in news"><td>{{new.date}}</td><td><a href="{{new.link}}">{{new.headline}}</a></td><td>{{new.guy}}</td><td>{{new.place}}</td></tr></tbody>
+</table>
+   
+  </body>
+</html>

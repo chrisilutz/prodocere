@@ -1,0 +1,670 @@
+/* ==========================================================================
+   HTML5 Boilerplate styles - h5bp.com (generated via initializr.com)
+   ========================================================================== */
+
+html,
+button,
+input,
+select,
+textarea {
+    color: #222;
+}
+
+body {
+    font-size: 1em;
+    line-height: 1.4;
+}
+
+::-moz-selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+::selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+img {
+    vertical-align: middle;
+}
+
+fieldset {
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+textarea {
+    resize: vertical;
+}
+
+.chromeframe {
+    margin: 0.2em 0;
+    background: #ccc;
+    color: #000;
+    padding: 0.2em 0;
+}
+
+
+/* ===== Initializr Styles ==================================================
+   Author: Jonathan Verrecchia - verekia.com/initializr/responsive-template
+   ========================================================================== */
+
+body {
+    font: 16px/26px Helvetica, Helvetica Neue, Arial;
+}
+
+.wrapper {
+    width: 90%;
+    margin: 0 5%;
+}
+
+/* ===================
+    ALL: Orange Theme
+   =================== */
+
+.header-container {
+    border-bottom: 0px solid #ddd;
+}
+
+.footer-container,
+.main aside {
+    border-top: 1px solid #ddd;
+}
+
+.header-container,
+.footer-container,
+.main aside {
+    background: #e6eaeb;
+}
+
+.title {
+    color: white;
+}
+
+/* ==============
+    MOBILE: Menu
+   ============== */
+  nav {position: relative;}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+}
+
+nav a, nav li.active strong {
+    display: block;
+    margin-bottom: 10px;
+    padding: 10px 0;
+
+    text-align: center;
+    text-decoration: none;
+    font-weight: normal;
+
+    color: #666;
+    background: transparent;
+}
+
+nav a:hover
+ {
+    background: #ccc;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+
+
+nav ul.close{visibility:hidden;}
+nav ul.open {visibility:visible;-webkit-transition: all 1s ease;
+		-moz-transition: all 1s ease;
+        -ms-transition: all 1s ease;
+        -o-transition: all 1s ease;
+		transition: all 1s ease;}
+nav ul ul{}
+nav ul ul {position:absolute;top:2em; left:15%; width:70%;}
+nav li li {background: #ccc;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;}
+nav li li a {
+        width:30%;
+        margin: 0 0.5%;
+        padding: 5px 0.5%;
+        margin-bottom: 5px;}
+
+
+/* ==============
+    MOBILE: Main
+   ============== */
+
+.main {
+    padding: 20px 0;
+}
+
+.main article h1 {
+    font-size: 2em;
+}
+
+.main aside {
+    color: white;
+    padding: 0px 5% 10px;
+}
+
+.footer-container footer {
+    color: white;
+    padding: 20px 0;
+}
+
+/* ===============
+    ALL: IE Fixes
+   =============== */
+
+.ie7 .title {
+    padding-top: 20px;
+}
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+.main-container {background:url(../img/header-sky.jpg)top center repeat-x;}
+.main {}
+.logo {width:320px;margin:20px auto;}
+.logo img {margin: 10px auto; width:300px;}
+.logotext {margin-top:0;padding-right:30px; font-size:1em; text-align:right; color:#185992;}
+
+.container {width:80%; margin: 0 10%;}
+.warning {background:#f00;margin:5px;padding:5px;border:#185992 2px solid; -webkit-border-radius: 5px;
+    border-radius: 5px;}
+    h1.warning  {position: relative; line-height: 1.5em; font-size:130%; color:#fff;}
+.content_small {text-align:center;margin-top:-10px;
+        color: #222222;}
+       .content_small p {line-height:1.3em;}
+        
+.right {float:right;}
+.left {float: left;}
+.c33, .c25, .c50 {width:100%;}
+a {text-decoration:none;}
+.box h3 {color:#185992; text-align: center;}
+.box i {color:#222222;text-align:center;display:block;width:100%; margin:10px auto;}
+.box_count {color:#222222;padding-left:2px; line-height: 16px; font-size:12px;}
+.box_count:hover {color:#DDDDDD;}
+header.wrapper {border-bottom:1px solid transparent; position:inherit;}
+header.padd {padding-bottom:1.5em;}
+header.wrapper:hover {border-bottom:1px solid #222;
+		-webkit-transition: all 1s ease;
+		-moz-transition: all 1s ease;
+        -ms-transition: all 1s ease;
+        -o-transition: all 1s ease;
+		transition: all 1s ease;}
+.box {background:#96A0A1; width:100%; height:35px;}
+
+.btn { background: #96a0a1;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    text-align:center;
+    width:80%;margin:10px 10%;}
+.btn-large {background:#96A0A1; -webkit-border-radius: 5px;
+    border-radius: 5px;
+    text-align:center; padding:1em; margin-bottom:2em; width:10em;}
+
+.btn-large, .btn a {color:#fff; text-decoration:none; display: block;}
+
+.btn:hover, .btn-large:hover {background:#185992; -webkit-box-shadow:  1px 1px 1px 1px rgba(10, 10, 10, 0.2);
+        
+        box-shadow:  1px 1px 1px 1px rgba(10, 10, 10, 0.2);-webkit-transition: background 100ms ease;
+		-moz-transition: background 100ms ease;
+        -ms-transition: background 100ms ease;
+        -o-transition: background 100ms ease;
+		transition: background 100ms ease;}
+
+.content {margin:5px;padding:5px;border:#185992 2px solid; -webkit-border-radius: 5px;
+    border-radius: 5px;background-color: rgba(255, 255, 255, 0.8);
+        color: #222222;}
+.content h1 {font-size:120%;}
+.content i {float:left; width:15px; height:10px; padding: 3px;}
+.content img.xing {float:left; height:15px;padding: 3px;}
+.content .social {width:65px; height:30px; margin:10px auto; display:none;}
+.ausgebucht {width: 200px;
+height: 50px;
+position: absolute;
+margin-top:30px;
+background: #f00;
+z-index: 100;
+float: left;
+opacity: 0.8;-moz-transform:rotate(350deg); /* Firefox 3.6 Firefox 4 */
+-webkit-transform:rotate(350deg); /* Safari */
+-o-transform:rotate(350deg); /* Opera */
+-ms-transform:rotate(350deg); /* IE9 */
+transform:rotate(350deg); /* W3C */}
+.ausgebucht h1 {color:#EDEDED;}
+
+a:hover, a:active, a:focus {
+  outline: none;
+}
+
+
+p {margin-top:0.5em;} 
+h1 {margin-bottom:0.5em;}
+
+
+span.summary, span.summary_fort{height:5em; display:block;text-align:center; margin: -6px; -webkit-border-radius: 5px;
+    border-radius: 5px; padding:1px;}
+span.summary a, span.summary_fort a {color:#ededed;}
+span.blue {background: #7db9e8;} 
+span.red {background: #1D4386;}
+span.green{background: #090C5A;}
+span.light {background:#667E9B;}
+.vevent {height:10em;}
+footer i {color:#666;}
+footer a {color:#fff;}
+
+.legende {clear:both;}
+section.legende div {margin: 5px;;float:left;}
+section.legende div p span {font-size:110%;padding: 5px; color:#EDEDED}
+.margin {margin-right:15px;}
+article img {padding:5px;}
+blockquote {
+  padding: 0 0 0 15px;
+  margin: 0 0 20px;
+  border-left: 5px solid #eeeeee;
+}
+blockquote p {
+  margin-bottom: 0;
+  font-size: 100%;
+  font-weight: 150;
+  line-height: 1.25;
+}
+blockquote small {
+  display: block;
+  line-height: 20px;
+  color: #999999;
+}
+blockquote small:before {
+  content: '\2014 \00A0';
+}
+blockquote.pull-right {
+  float: right;
+  padding-right: 15px;
+  padding-left: 0;
+  border-right: 5px solid #eeeeee;
+  border-left: 0;
+}
+blockquote.pull-right p,
+blockquote.pull-right small {
+  text-align: right;
+}
+blockquote.pull-right small:before {
+  content: '';
+}
+blockquote.pull-right small:after {
+  content: '\00A0 \2014';
+}
+q:before,
+q:after,
+blockquote:before,
+blockquote:after {
+  content: "";
+}
+article img {padding: 0;}
+.rand {padding-left:5px;} 
+/* ==========================================================================
+ * Tabelle
+ * ==========================================================================
+ */
+table {
+		width:100%;
+		border-collapse:collapse;
+		margin: 1.3571em 0 0 0;
+		color:#333;
+		border-top: 1px #ccc solid;
+		border-bottom: 1px #ccc solid;
+	}
+
+	table.narrow {
+		margin:  1.4286em 0 0 0;
+	}
+
+	table.narrow th,
+	table.narrow td {
+		padding: 0 0.5em;
+		line-height: 1.4286em;
+	}
+
+	table.bordertable {
+		border:1px #ccc solid;
+	}
+
+	table caption {
+		font-variant:small-caps;
+	}
+
+	th, td {
+		line-height: 1.5em;
+		vertical-align: top;
+		padding: 0.7143em 0.5em;
+	}
+
+	th *:first-child,
+	td *:first-child {
+		margin-top: 0;
+	}
+
+	th.nowrap,
+	td.nowrap {
+		white-space: nowrap;
+	}
+
+	thead th {
+		text-align: left;
+		color:#000;
+		border-bottom:2px #000 solid;
+	}
+
+	.bordertable thead th {
+		background:#e0e0e0;
+		border-right:1px #ccc solid;
+		border-bottom:1px #ccc solid;
+	}
+
+	.bordertable tbody th[scope="row"] {
+		background:#f0f0f0;
+	}
+
+	tbody th {
+		text-align: left;
+		border-top:1px solid #ccc;
+		text-align:left;
+	}
+
+	.bordertable tbody th {
+		border-right:1px solid #ccc;
+	}
+
+	tbody td {
+		text-align: left;
+		border-top:1px solid #ccc;
+	}
+
+	.bordertable tbody td {
+		border-right:1px solid #ccc;
+	}
+
+	/* highlight row on mouse over */
+	tbody tr:hover th,
+	tbody tr:hover td {
+		background:#f8f8f8;
+	}
+
+
+
+
+/* ==========================================================================
+   Media Queries
+   ========================================================================== */
+
+@media only screen and (min-width: 480px) {
+
+/* ====================
+    INTERMEDIATE: Menu
+   ==================== */
+
+    nav a {
+        float: left;
+        width: 14%;
+        margin: 0 0.5%;
+        padding: 5px 0.5%;
+        margin-bottom: 5px;
+    }
+
+    nav li:first-child a {
+        margin-left: 0;
+    }
+
+    nav li:last-child a {
+        margin-right: 0;
+    }
+    
+    .logo_nav {float:left; padding: 14px 0;}
+    
+    .navi_float {width: 80%;
+height: 250px;margin:0 auto;}
+
+.content {min-height:205px;}
+
+/* ========================
+    INTERMEDIATE: IE Fixes
+   ======================== */
+
+    nav ul li {
+        display: inline;
+    }
+
+    .oldie nav a {
+        margin: 0 0.7%;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+
+/* ====================
+    WIDE: CSS3 Effects
+   ==================== */
+
+    .header-container,
+    .main aside {
+        -webkit-box-shadow: 0 5px 10px #aaa;
+           -moz-box-shadow: 0 5px 10px #aaa;
+                box-shadow: 0 5px 10px #aaa;
+    }
+
+/* ============
+    WIDE: Menu
+   ============ */
+
+    .title {
+        float: left;
+    }
+
+    nav {
+        margin: 10px auto;
+        width: 90%;
+    }
+  
+
+/* ============
+    WIDE: Main
+   ============ */
+
+    .main article {
+        float: left;
+        width: 57%;
+    }
+
+    .main aside {
+        float: right;
+        width: 28%;
+    }
+    
+    .c33 {width:33%;}
+    .c25 {width:50%;}
+    
+    
+    .box {width:142px; height:150px; background: url("../img/box.png")top left no-repeat; margin:20px auto;padding-top:20px;
+		-webkit-transition: all 450ms ease;
+		-moz-transition: all 450ms ease;
+        -ms-transition: all 450ms ease;
+        -o-transition: all 450ms ease;
+		transition: all 450ms ease;
+		
+        }
+        
+       .box img {width:16px; position:relative; top:40px;left:125px}
+.move {-moz-transform: scale(1) rotate(0deg) translateX(0px) translateY(-45px) skewX(0deg) skewY(0deg);
+		-webkit-transform: scale(1) rotate(0deg) translateX(0px) translateY(-45px) skewX(0deg) skewY(0deg);
+        -o-transform: scale(1) rotate(0deg) translateX(0px) translateY(-45px) skewX(0deg) skewY(0deg);
+        -ms-transform: scale(1) rotate(0deg) translateX(0px) translateY(-45px) skewX(0deg) skewY(0deg);
+        transform: scale(1) rotate(0deg) translateX(0px) translateY(-45px) skewX(0deg) skewY(0deg);
+        -webkit-transition: all 450ms ease;
+		-moz-transition: all 450ms ease;
+        -ms-transition: all 450ms ease;
+        -o-transition: all 450ms ease;
+		transition: all 450ms ease;}
+		
+		
+	.content {min-height:205px;}
+}
+
+@media only screen and (min-width: 1140px) {
+
+/* ===============
+    Maximal Width
+   =============== */
+
+    .wrapper {
+        width: 1026px; /* 1140px - 10% for margins */
+        margin: 0 auto;
+    }
+    .c25 {width:25%;}
+    .c50 {width:50%;}
+}
+
+/* ==========================================================================
+   Helper classes
+   ========================================================================== */
+
+.ir {
+    background-color: transparent;
+    border: 0;
+    overflow: hidden;
+    *text-indent: -9999px;
+}
+
+.ir:before {
+    content: "";
+    display: block;
+    width: 0;
+    height: 150%;
+}
+
+.hidden {
+    display: none !important;
+    visibility: hidden;
+}
+
+.visuallyhidden {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+
+.visuallyhidden.focusable:active,
+.visuallyhidden.focusable:focus {
+    clip: auto;
+    height: auto;
+    margin: 0;
+    overflow: visible;
+    position: static;
+    width: auto;
+}
+
+.invisible {
+    visibility: hidden;
+}
+
+.clearfix:before,
+.clearfix:after {
+    content: " ";
+    display: table;
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+.clearfix {
+    *zoom: 1;
+}
+
+/* ==========================================================================
+   Print styles
+   ========================================================================== */
+
+@media print {
+    * {
+        background: transparent !important;
+        color: #000 !important; /* Black prints faster: h5bp.com/s */
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+    a,
+    a:visited {
+        text-decoration: underline;
+    }
+
+    a[href]:after {
+        content: " (" attr(href) ")";
+    }
+
+    abbr[title]:after {
+        content: " (" attr(title) ")";
+    }
+
+    /*
+     * Don't show links for images, or javascript/internal links
+     */
+
+    .ir a:after,
+    a[href^="javascript:"]:after,
+    a[href^="#"]:after {
+        content: "";
+    }
+
+    pre,
+    blockquote {
+        border: 1px solid #999;
+        page-break-inside: avoid;
+    }
+
+    thead {
+        display: table-header-group; /* h5bp.com/t */
+    }
+
+    tr,
+    img {
+        page-break-inside: avoid;
+    }
+
+    img {
+        max-width: 100% !important;
+    }
+
+    @page {
+        margin: 0.5cm;
+    }
+
+    p,
+    h2,
+    h3 {
+        orphans: 3;
+        widows: 3;
+    }
+
+    h2,
+    h3 {
+        page-break-after: avoid;
+    }
+}

@@ -1,0 +1,16 @@
+ {"news":
+         [
+ 		 { "headline" : "Workshop &quot;quick &amp; easy&quot;", "date" : "9.7.2013", "guy" : "Christian Kohlmann", "place" : "Hotel Leicht in Biebelried", "link" : "docs/quick_easy.pdf", "color" : "blue", "condition" : "ausgebucht"},
+         { "headline" : "Ressourcen-Training Basisseminar", "date" : "16.-17.7.2013", "guy" : "Gudrun Windisch", "place" : "Hotel Leicht in Biebelried", "link" : "docs/resourcen.pdf", "color" : "red", "condition" : "frei"},
+         { "headline" : "Die ganze Welt ist eine B&uuml;hne - Von der F&uuml;hrungs-Kraft zur F&uuml;hrungs-Persönlichkeit", "date" : "18.7.2013", "guy" : "Christian Kohlmann und Gudrun Windisch", "place" : "Hotel Leicht in Biebelried", "link" : "docs/welt_buehne.pdf", "color" : "blue", "condition" : "frei"},
+         { "headline" : "Ausbildungsmarketing mit facebook und Co.", "date" : "25.7.2013", "guy" : "Peter Kuhn", "place" : "Studienzentrum Kitzingen", "link" : "docs/ausbildungsmarketing.pdf", "color" : "blue", "condition" : "frei"},
+		 { "headline" : "Die ganze Welt ist eine B&uuml;hne - von der F&uuml;hrungs-Kraft zur F&uuml;hrungs-Pers&ouml;nlichkeit", "date" : "19.9.2013", "guy" : "Christian Kohlmann und Gudrun Windisch", "place" : "Hotel Leicht in Biebelried", "link" : "docs/welt_buehne.pdf", "color" : "blue", "condition" : "frei"},
+         { "headline" : "Die ganze Welt ist eine B&uuml;hne - von der F&uuml;hrungs-Kraft zur F&uuml;hrungs-Pers&ouml;nlichkeit", "date" : "24.-25.9.2013", "guy" : "Christian Kohlmann und Gudrun Windisch", "place" : "Hotel Leicht in Biebelried", "link" : "docs/welt_buehne.pdf", "color" : "red", "condition" : "frei"},
+         { "headline" : "Ausbildungsmarketing mit facebook und Co.", "date" : "1.10.2013", "guy" : "Peter Kuhn", "place" : "Studienzentrum Kitzingen", "link" : "docs/ausbildungsmarketing.pdf", "color" : "blue", "condition" : "frei"},
+         { "headline" : "Die ganze Welt ist eine B&uuml;hne - von der F&uuml;hrungs-Kraft zur F&uuml;hrungs-Pers&ouml;nlichkeit", "date" : "8.-9.10.2013", "guy" : "Christian Kohlmann und Gudrun Windisch", "place" : "Hotel Leicht in Biebelried", "link" : "docs/welt_buehne.pdf", "color" : "red", "condition" : "frei"},
+         { "headline" : "Betriebliches Gesundheitsmanagement &quot;Haus der Arbeitsf&auml;higkeit&quot; ", "date" : "09.10.2013 <strong>Um:</strong> 16 Uhr", "guy" : "Erwin Siemens", "place" : "Studienzentrum<br />mit anschließender Diskussion", "link" : "docs/Betreibliches_Gesundheitsmanagement_9_Oktober.pdf", "color" : "light", "condition" : "frei"},
+         { "headline" : "Workshop &quot;quick &amp; easy&quot;", "date" : "15.10.2013", "guy" : "Christian Kohlmann", "place" : "Hotel Leicht in Biebelried", "link" : "docs/quick_easy.pdf", "color" : "blue", "condition" : "frei"},
+         { "headline" : "Aktiv Lernen - Handlungsorientierte Methoden richtig einsetzen", "date" : "15.10.2013", "guy" : "Michael Kohlmann", "place" : "Studienzentrum Kitzingen", "link" : "docs/aktiv_lernen.pdf", "color" : "blue", "condition" : "frei"},
+         
+         
+          ]}       
