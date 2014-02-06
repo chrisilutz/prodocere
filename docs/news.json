@@ -1,6 +1,4 @@
  {"news":
          [
- 		 
-         { "headline" : "Flip Art Basic - Flipchartgestaltung leicht gemacht", "date" : "8.11.2013", "guy" : "Brigitte Kiekopf", "place" : "Studienzentrum Kitzingen", "link" : "docs/flipchart_basic.pdf", "color" : "blue", "condition" : "frei"},
-         { "headline" : "LidA – Lernen am Arbeitsplatz Geschäftsprozessorientiertes Ausbilden – leicht gemacht", "date" : "21.11.2013", "guy" : "Michael Kohlmann", "place" : "Studienzentrum Kitzingen", "link" : "docs/prozess_lernen.pdf", "color" : "blue", "condition" : "frei"}
+ 		 { "headline" : "Monitoring und Qualitätsmanagement…nur etwas anders", "date" : "08. April 16:00 Uhr", "guy" : "Michael Kohlmann", "place" : "Akademie für professionelle Berufsbildung Kitzingen", "link" : "", "color" : "light", "condition" : "frei"}
           ]}       

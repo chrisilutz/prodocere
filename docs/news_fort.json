@@ -1,8 +1,9 @@
 {"fortbildung":
          [
- 		 { "headline" : "gepr&uuml;fter Berufsp&auml;dagoge/In", "headline2" : " gepr&uuml;fter Aus-und Weiterbildungsp&auml;dagoge/In", "date" : "Herbst 2013", "place" : "Stuttgart", "link" : "docs/akad_berufspaedagoge_final_105.pdf", "link2" : "docs/akad_auswebipaed_final_105.pdf", "color" : "green"},
-         { "headline" : "gepr&uuml;fter Berufsp&auml;dagoge/In", "headline2" : " gepr&uuml;fter Aus-und Weiterbildungsp&auml;dagoge/In", "date" : "Frühjahr 2014", "place" : "Fulda", "link" : "docs/akad_berufspaedagoge_final_105.pdf", "link2" : "docs/akad_auswebipaed_final_105.pdf", "color" : "green"},
-         { "headline" : "gepr&uuml;fter Berufsp&auml;dagoge/In", "headline2" : " gepr&uuml;fter Aus-und Weiterbildungsp&auml;dagoge/In", "date" : "09.05.2014", "place" : "Kitzingen", "link" : "docs/akad_berufspaedagoge_final_105.pdf", "link2" : "docs/akad_auswebipaed_final_105.pdf", "color" : "green"}
+ 		 { "headline" : "Ausbilderqualifizierung (AEVO)", "text2" : "Terminplanung", "text" : "Anmeldung", "date" : "22. M&auml;rz 2014", "place" : "Kitzingen", "link1" : "docs/akad_aevo_final_105.pdf", "link2" : "docs/terminplanung_AEVO_01.pdf", "link3" : "docs/anmeldeformular_AEVO_kurs01.pdf", "color" : "green"},
+ 		 { "headline" : "gepr&uuml;fter Berufsp&auml;dagoge/In", "headline2" : " gepr&uuml;fter Aus-und Weiterbildungsp&auml;dagoge/In", "date" : "09. Mai 2014", "place" : "Kitzingen", "link" : "docs/akad_berufspaedagoge_final_105.pdf", "link2" : "docs/akad_auswebipaed_final_105.pdf", "color" : "green"},
+         { "headline" : "Ausbilderqualifizierung (AEVO)", "text2" : "Terminplanung", "text" : "Anmeldung", "date" : "14. Juli 2014", "place" : "Kitzingen", "link1" : "docs/akad_aevo_final_105.pdf", "link2" : "docs/terminplanung_AEVO_02.pdf", "link3" : "docs/anmeldeformular_AEVO_kurs02.pdf", "color" : "green"},
+ 		 { "headline" : "Ausbilderqualifizierung (AEVO)", "text2" : "Terminplanung", "text" : "Anmeldung", "date" : "09. Oktober 2014", "place" : "Kitzingen", "link1" : "docs/akad_aevo_final_105.pdf", "link2" : "docs/terminplanung_AEVO_03.pdf", "link3" : "docs/anmeldeformular_AEVO_kurs03.pdf", "color" : "green"}
          
           ]}
         

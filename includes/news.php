@@ -46,7 +46,8 @@ foreach($json_f->fortbildung as $p)
 {
 echo '            		<article><div class="c25 left">
             			
-<div class="content"><div class="vevent" id="hcalendar-'.$p->headline.'"><span class="summary_fort '.$p->color.'"><a href="'.$p->link.'" target="_blank">'.$p->headline.'</a><br /><a href="'.$p->link2.'" target="_blank">'.$p->headline2.'</a></span><br /><strong>Ab: </strong><time datetime="'.$p->date.'" class="dtstart">'.$p->date.'</time><br /><strong>Ort: </strong><span class="location">'.$p->place.'</span>
+<div class="content"><div class="vevent" id="hcalendar-'.$p->headline.'"><span class="summary_fort '.$p->color.'"><a href="'.$p->link.'" target="_blank">'.$p->headline.'</a><br /><a href="'.$p->link2.'" target="_blank">'.$p->headline2.'</a></span><br /><strong>Ab: </strong><time datetime="'.$p->date.'" class="dtstart">'.$p->date.'</time><br /><strong>Ort: </strong><span class="location">'.$p->place.'</span><br />
+<span><a href="'.$p->link2.'" target="_blank">'.$p->text2.'</a></span><br /><span><a href="'.$p->link3.'" target="_blank">'.$p->text.'</a></span>
 </div><div class="social"><i class="icon-facebook-sign  " style="color:#3B5998"></i><i class="icon-twitter-sign  " style="color:#33ccff;"></i><img class="xing" src="img/xing_logo.png"   width="15px;"/></div>  
 
             	</div></div></article>

@@ -80,7 +80,9 @@
             	</section>
             </div><!-- #container -->
             <section>
-
+                <article>
+                    <h1><span style="background-color: #f00;color: #fff;">Neue Tagesseminare kommen bald…</span></h1>
+                </article>
           
             	<?php include ("includes/news.php"); ?>
 			</section>

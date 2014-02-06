@@ -28,7 +28,7 @@ $json_o=json_decode($string);
 // object method
 foreach($json_o->fortbildung as $p)
 {
-echo '<tr><td>'.$p->date.'</td><td><a href="'.$p->link.'" target="_blank">'.$p->headline.'</a><br /><a href="'.$p->link2.'" target="_blank">'.$p->headline2.'</a></td><td>'.$p->place.'</td></tr>';
+echo '<tr><td>'.$p->date.'</td><td><a href="'.$p->link.'" target="_blank">'.$p->headline.'</a><br /><a href="'.$p->link2.'" target="_blank">'.$p->headline2.'</a><br /><a href="'.$p->link2.'" target="_blank">'.$p->text2.'</a><br /><a href="'.$p->link3.'" target="_blank">'.$p->text.'</a></td><td>'.$p->place.'</td></tr>';
 }
 
 ?>

@@ -18,7 +18,7 @@ if($counterstand == "4")
 echo "<div class='footer-container'>
             <footer class='wrapper'>
             <div><blockquote><strong><i>".$text[$counterstand]."</i></strong></blockquote></div>
-                <h3>&copy; 2013 - ".$title."</h3> - <a class='right' href='impressum.php'>Impressum</a>
+                <h3>&copy; 2014 - ".$title."</h3> - <a class='right' href='impressum.php'>Impressum</a>
             </footer>
         </div>";
  rewind($datei);

@@ -11,6 +11,7 @@
          { "headline" : "Betriebliches Gesundheitsmanagement &quot;Haus der Arbeitsf&auml;higkeit&quot; ", "date" : "09.10.2013 <strong>Um:</strong> 16 Uhr", "guy" : "Erwin Siemens", "place" : "Studienzentrum<br />mit anschließender Diskussion", "link" : "docs/Betreibliches_Gesundheitsmanagement_9_Oktober.pdf", "color" : "light", "condition" : "frei"},
          { "headline" : "Workshop &quot;quick &amp; easy&quot;", "date" : "15.10.2013", "guy" : "Christian Kohlmann", "place" : "Hotel Leicht in Biebelried", "link" : "docs/quick_easy.pdf", "color" : "blue", "condition" : "frei"},
          { "headline" : "Aktiv Lernen - Handlungsorientierte Methoden richtig einsetzen", "date" : "15.10.2013", "guy" : "Michael Kohlmann", "place" : "Studienzentrum Kitzingen", "link" : "docs/aktiv_lernen.pdf", "color" : "blue", "condition" : "frei"},
+          { "headline" : "Flip Art Basic - Flipchartgestaltung leicht gemacht", "date" : "8.11.2013", "guy" : "Brigitte Kiekopf", "place" : "Studienzentrum Kitzingen", "link" : "docs/flipchart_basic.pdf", "color" : "blue", "condition" : "frei"},
+         { "headline" : "LidA – Lernen am Arbeitsplatz Geschäftsprozessorientiertes Ausbilden – leicht gemacht", "date" : "21.11.2013", "guy" : "Michael Kohlmann", "place" : "Studienzentrum Kitzingen", "link" : "docs/prozess_lernen.pdf", "color" : "blue", "condition" : "frei"},
+         { "headline" : "gepr&uuml;fter Berufsp&auml;dagoge/In", "headline2" : " gepr&uuml;fter Aus-und Weiterbildungsp&auml;dagoge/In", "date" : "Herbst 2013", "place" : "Stuttgart", "link" : "docs/akad_berufspaedagoge_final_105.pdf", "link2" : "docs/akad_auswebipaed_final_105.pdf", "color" : "green"},
          
-         
-          ]}       
