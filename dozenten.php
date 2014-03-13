@@ -20,7 +20,7 @@
         <link rel="stylesheet" href="css/font-awesome.min.css">
 
         <script src="js/vendor/modernizr-2.6.2-respond-1.1.0.min.js"></script>
-        
+
     </head>
     <body>
         <!--[if lt IE 7]>
@@ -29,19 +29,19 @@
 
         <div class="header-container">
             <header class="wrapper clearfix">
-                
+
         <!-- Menu aus includes/menu.php  -->
-        
+
         	<?php echo $navi2; ?>
-        	
-        <!-- Ende Menu  -->        
-                
+
+        <!-- Ende Menu  -->
+
             </header>
         </div>
 
         <div class="main-container">
 <!-- #main -->
-            
+
             <div class="distribute wrapper clearfix">
             	<div class="container">
             		<section class="content">
@@ -97,43 +97,44 @@ Seit 2011 arbeitet Sie als Trainerin f&uuml;r wirkungsvollen Auftritt, Verkauf, 
 	</ul>
 </div>
             				</article>
-            				
+
             				<article class="clearfix">
             					<h3>Glen Lawernce (*1963)</h3>
             					<img src="img/lawrence.jpg" alt="" class="left" width="300"/>
             					<div class="left c50 rand"><p>gepr&uuml;fter Berufsp&auml;dagoge</p>
 <p>stellv. BR-Vorsitzender
-Mediator/Konfliktmanagement; 
-staatl. gepr&uuml;fter Kautschuk/Kunststofftechniker; Qualit&auml;tsassistent;  
+Mediator/Konfliktmanagement;
+staatl. gepr&uuml;fter Kautschuk/Kunststofftechniker; Qualit&auml;tsassistent;
 European Industrial Engineer; Kunststoff-Formgeber.
 Seit 1983 bei Veritas AG als Eingliederungsmanager
 </p>
 <p>T&auml;tigkeitsschwerpunkte:</p><ul>
 	<li>Betriebliches Eingliederungsmanagement (BEM)</li>
 	<li>Betriebliches Gesundheitsmanagement (BGM)</li>
-	
+
 	</ul>
 </div>
             				</article>
-            				<article class="clearfix">
+            				<!--<article class="clearfix">
             					<h3>Christian Hain (*1983)</h3>
             					<img src="img/hain.jpg" alt="" class="left" width="300"/>
             					<div class="left c50 rand"><p>gepr&uuml;fter Berufsp&auml;dagoge</p>
-<p>Personalentwickler bei der EDEKA Unternehmensgruppe 
+<p>Personalentwickler bei der EDEKA Unternehmensgruppe
 Nordbayern-Sachsen-Th&uuml;ringen, zust&auml;ndig f&uuml;r den Raum Mittelfranken.
 </p>
 <p>T&auml;tigkeitsschwerpunkte:</p><ul>
 	<li>Dozent f&uuml;r gepr. Aus- und Weiterbildungsp&auml;dagogen/In</li>
 	<li>Dozent f&uuml;r gepr. Berufsp&auml;dagogen/In</li></ul>
 </div>
-            				</article>
+            				</article>!-->
+
             				<article class="clearfix">
             					<h3>Robert Hauptenbuchner (*1968)</h3>
             					<img src="img/hauptenbuchner.jpg" alt="" class="left" width="300"/>
             					<div class="left c50 rand"><p>gepr&uuml;fter Berufsp&auml;dagoge</p>
 <p>Lehrrettungsassistent und Dozent beim Bayerischen Roten Kreuz Traunstein.<br />
 Seit 1993 Ausbildungsleitung<br />
-Langj&auml;hrige freiberufliche Dozentent&auml;tigkeit im Bereich Notfallmedizin und Erwachsenenbildung 
+Langj&auml;hrige freiberufliche Dozentent&auml;tigkeit im Bereich Notfallmedizin und Erwachsenenbildung
 Seit 2010 Medizinproduktberater und Ausbilder f&uuml;r Medtronic/Physio Control und Berufsp&auml;dagoge
 Freiberuflicher Mitarbeiter an der Berufsfachschule f&uuml;r Rettungsassistenten in Burghausen (Schwerpunkt p&auml;dagogische Qualifikationen).
 </p>
@@ -162,7 +163,7 @@ Freiberuflicher Mitarbeiter an der Berufsfachschule f&uuml;r Rettungsassistenten
             					<h3>Andreas Heuser (*1964)</h3>
             					<img src="img/heuser.jpg" alt="" class="left" width="300"/>
             					<div class="left c50 rand"><p>gepr&uuml;fter Berufsp&auml;dagoge und Tischlermeister</p>
-<p>Seit 15 Jahren in der Ausbildung von benachteiligten 
+<p>Seit 15 Jahren in der Ausbildung von benachteiligten
 Jugendlichen und jungen Erwachsenen t&auml;tig.
 </p>
 <p>T&auml;tigkeitsschwerpunkte:</p><ul>
@@ -176,7 +177,7 @@ Jugendlichen und jungen Erwachsenen t&auml;tig.
             					<h3>Brigitte Kiekopf (*1963)</h3>
             					<img src="img/kiekopf.jpg" alt="" class="left" width="300"/>
             					<div class="left c50 rand"><p>gepr&uuml;fte Berufsp&auml;dagogin</p>
-<p>Bildungsbegleitung, 
+<p>Bildungsbegleitung,
 Lehrkraft und Ausbilder bei Gr&uuml;mel gGmbH in Fulda
 Handwerksmeisterin, Siebdruckerin
 </p>
@@ -190,11 +191,11 @@ Handwerksmeisterin, Siebdruckerin
             				<article class="clearfix">
             					<h3>Brigitte Kleinhenz (*1964)</h3>
             					<img src="img/kleinhenz.jpg" alt="" class="left" width="300"/>
-            					<div class="left c50 rand"><p>gepr&uuml;fte Berufsp&auml;dagogin</p>
-<p>T&auml;tig in der Aus- und Weiterbildung eines großen 
+            					<div class="left c50 rand"><p>gepr&uuml;fte Berufsp&auml;dagogin, Suggestop&auml;din (DGSL)</p>
+<p>T&auml;tig in der Aus- und Weiterbildung eines großen
 Industrieunternehmens.
-NLP-Diploma, Zertifizierte Berufsausbilderin (IHK), 
-Train the Trainer (IHK), Gepr. Personalreferentin (bSb), 
+NLP-Diploma, Zertifizierte Berufsausbilderin (IHK),
+Train the Trainer (IHK), Gepr. Personalreferentin (bSb),
 Chefassistentin (IHK), Betriebswirtin (HwK)
 </p>
 <p>T&auml;tigkeitsschwerpunkte:</p><ul>
@@ -231,20 +232,20 @@ Chefassistentin (IHK), Betriebswirtin (HwK)
 	</ul>
 </div>
             				</article>
-            				
+
             			<div class="clearfix"></div>
             		</section>
             	</div><!-- #container -->
             </div><!-- #distribute -->
-            
+
         </div> <!-- #main-container -->
 
         <!-- Footer aus includes/footer.php -->
-        
+
         <?php include("includes/footer.php"); ?>
 
 		<!-- Footer Ende -->
-		
+
         <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.9.0.min.js"><\/script>')</script>
 
