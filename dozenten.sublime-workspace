@@ -1,0 +1,362 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inclu",
+				"includes"
+			],
+			[
+				"in",
+				"includes"
+			],
+			[
+				"inc",
+				"includes"
+			],
+			[
+				"the",
+				"the_title"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"blam",
+				"Git: Blame"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"log",
+				"Git: Log"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"git i",
+				"Git: Init"
+			],
+			[
+				"add",
+				"SublimeGit: Add License"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack li",
+				"Package Control: List Packages"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Add Repository"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"gitad",
+				"Git: Add Remote"
+			],
+			[
+				"gita",
+				"Git: Add Remote"
+			],
+			[
+				"gitc",
+				"Git: Commit"
+			],
+			[
+				"gitstat",
+				"Git: Status"
+			],
+			[
+				"giti",
+				"Git: Init"
+			],
+			[
+				"gitp",
+				"Git: Push"
+			],
+			[
+				"gits",
+				"Git: Status"
+			],
+			[
+				"gi",
+				"Git: Init"
+			],
+			[
+				"gre",
+				"Git: Add Remote"
+			],
+			[
+				"gitre",
+				"Git: Remote"
+			],
+			[
+				"gitpu",
+				"Git: Push Current Branch"
+			],
+			[
+				"gitadd",
+				"Git: Add Remote"
+			],
+			[
+				"gs",
+				"Git: Status"
+			],
+			[
+				"gini",
+				"Git: Init"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git: init",
+				"Git: Init"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Christian/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/F/xampp/htdocs/advertising_trading/style.css",
+		"/F/xampp/htdocs/advertising_trading/index.php",
+		"/C/Users/Christian/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/F/xampp/htdocs/ansichtsache_test/includes/mailer.php",
+		"/F/xampp/htdocs/ansichtsache_test/css/screen/content.css",
+		"/F/xampp/htdocs/ansichtsache_test/css/my_layout.css",
+		"/F/xampp/htdocs/ansichtsache_test/2013/digital/inc/functions.php",
+		"/F/xampp/htdocs/ansichtsache_test/2013/analog/inc/functions.php",
+		"/F/xampp/htdocs/ansichtsache_test/2013/analog/inc/header.php",
+		"/F/xampp/htdocs/ansichtsache_test/2013/analog/index.php",
+		"/F/xampp/htdocs/ansichtsache_test/includes/config.ini",
+		"/F/xampp/htdocs/ansichtsache_test/counter.data",
+		"/F/xampp/htdocs/ansichtsache_test/dcounter.data",
+		"/F/xampp/htdocs/agnp_db/connect_server.php",
+		"/C/Users/Christian/AppData/Roaming/Sublime Text 3/Packages/User/SublimeGit.sublime-settings",
+		"/F/xampp/htdocs/ansichtssache/includes/mailer.php",
+		"/F/xampp/htdocs/ansichtssache/index.php",
+		"/F/xampp/htdocs/malakas/wp-config.php",
+		"/F/krawietz/Malakas/www.malakas.de/wp-content/themes/www.malakas.de/footer.php",
+		"/F/krawietz/Malakas/www.malakas.de/wp-content/themes/www.malakas.de/css/style.css",
+		"/F/krawietz/Malakas/www.malakas.de/wp-content/plugins/private-content/login_widget.php",
+		"/F/xampp/htdocs/malakas/.htaccess",
+		"/F/krawietz/Malakas/www.malakas.de/wp-config.php",
+		"/F/xampp/htdocs/edith-kunz/wp-config.php",
+		"/F/krawietz/Malakas/www.malakas.de/wp-content/themes/www.malakas.de/search.php",
+		"/F/krawietz/Malakas/www.malakas.de/wp-content/themes/www.malakas.de/page-10.php",
+		"/F/krawietz/Malakas/www.malakas.de/wp-content/themes/www.malakas.de/front-page.php",
+		"/F/krawietz/Malakas/www.malakas.de/wp-content/plugins/private-content/classes/simple_form_validator.php",
+		"/F/krawietz/Malakas/www.malakas.de/wp-content/plugins/private-content/private_content.php",
+		"/F/krawietz/Malakas/www.malakas.de/wp-content/plugins/private-content/languages/pg_ml-de_DE.po",
+		"/F/krawietz/Malakas/www.malakas.de/wp-content/plugins/private-content/languages/pg_ml-de_DE.mo",
+		"/F/krawietz/Malakas/www.malakas.de/wp-content/plugins/private-content/user_registration.php",
+		"/F/krawietz/Malakas/www.malakas.de/wp-content/plugins/private-content/functions.php",
+		"/F/krawietz/Malakas/www.malakas.de/wp-content/plugins/private-content/users/add_user.php",
+		"/F/krawietz/Malakas/www.malakas.de/wp-content/themes/www.malakas.de/style.css",
+		"/F/krawietz/Brandstädter/wordpress/brand_child/page.php",
+		"/F/krawietz/Brandstädter/wordpress/brand_child/footer.php",
+		"/F/krawietz/Malakas/www.malakas.de/wp-content/themes/www.malakas.de/template-news.php",
+		"/F/krawietz/Malakas/www.malakas.de/wp-content/themes/www.malakas.de/functions.php",
+		"/F/krawietz/Brandstädter/wordpress/brand_child/functions.php",
+		"/F/xampp/htdocs/liqvideo/envision-child/style.css",
+		"/F/xampp/htdocs/wp_laby/wp-config.php",
+		"/F/xampp/htdocs/tdm/index.php",
+		"/F/krawietz/Seniorenresidenz Gerolzhofen/impressum.html",
+		"/F/krawietz/Seniorenresidenz Gerolzhofen/index.html",
+		"/F/xampp/htdocs/tdm/index.html",
+		"/F/xampp/htdocs/primalscream/index.php",
+		"/F/xampp/htdocs/prodocere/css/main_mini.css",
+		"/F/krawietz/Brandstädter/wordpress/brand_child/.git/config",
+		"/C/Users/Christian/AppData/Roaming/Sublime Text 3/Packages/CSScomb JS/CSScomb JS.sublime-settings",
+		"/C/Users/Christian/AppData/Roaming/Sublime Text 3/Packages/CSScomb JS/README.md"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"href=\"",
+			"class",
+			"=\"",
+			"50px",
+			"csg-530f43bbb0b9f.png",
+			"200",
+			"git"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "dozenten.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
